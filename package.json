@@ -1,0 +1,15 @@
+{
+  "name": "node.js-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo_create_mongo_db_02.js",
+  "dependencies": {
+    "mongodb": "^3.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
